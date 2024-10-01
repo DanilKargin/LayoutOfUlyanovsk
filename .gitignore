@@ -12,6 +12,9 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
+#Blender
+*.blend?
+
 # AWS User-specific
 .idea/**/aws.xml
 
